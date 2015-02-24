@@ -1,0 +1,16 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+   <net.nend.android.NendAdView
+    	        android:id="@+id/nend"
+    	        android:layout_width="fill_parent"
+    	        android:layout_height="100dp"
+    	        android:layout_gravity="top|center"
+    	        NendApiKey="bc8dcc1ecf917c5b251bf4b4195db7f31d3b2dbc"
+    	        NendSpotId="124084"
+    	        android:gravity="center|top" 
+   />
+
+</RelativeLayout>
